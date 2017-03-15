@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWorkshop.iml" filepath="$PROJECT_DIR$/JavaWorkshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principle/design-principle.iml" filepath="$PROJECT_DIR$/design-principle/design-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization/serialization.iml" filepath="$PROJECT_DIR$/serialization/serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting-algo/sorting-algo.iml" filepath="$PROJECT_DIR$/sorting-algo/sorting-algo.iml" />
+    </modules>
+  </component>
+</project>
